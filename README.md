@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satoshi6000
+- 👋 Hi, I’m @CoderayJs
 - 👀 I’m interested in ...Mern
 - 🌱 I’m currently learning ...EXpress.js
 - 💞️ I’m looking to collaborate on ...any React Project.
